@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nizor
-- 👀 I’m interested in DevOps, Cloud Computing and Wordpress Development
-- 🌱 I’m currently learning Cloud Computing
+- 👀 I’m interested in Data Science, Backend Dev using Python, DevOps & Cloud Computing
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on open-source projects
 - 📫 How to reach me - ogbezuodenizor@gmail.com
 
