@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Nizor
-- 👀 I’m interested in Data Science, Backend Dev using Python, DevOps & Cloud Computing
-- 🌱 I’m currently learning AI
+- 👀 Data Scientist, Python4everything, DevOps & Cloud Computing
+- 🌱 I’m currently learning AI. Love to develop on Hugginface :)
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 How to reach me - ogbezuodenizor@gmail.com
+- 📫 Buzz - ogbezuodenizor@gmail.com
 
 <!---
 Nizor/Nizor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
