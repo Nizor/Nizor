@@ -1,5 +1,5 @@
 - Hi, I’m @Nizor
-- Data Science & Cloud Computing
+- Data Science & Linux
 - Engineering and Innovation Management (Hardware & Software)
 - I'm African
 - Buzz - ogbezuodenizor@gmail.com
